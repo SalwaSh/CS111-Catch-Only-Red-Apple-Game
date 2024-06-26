@@ -21,7 +21,11 @@ To run the game, make sure you have Python installed on your system. Clone this 
 
 ```bash
 git clone https://github.com/SalwaSh/CS111-Catch-Only-Red-Apple-Game.git
+```
+```bash
 cd CS111-Catch-Only-Red-Apple-Game/game
+```
+```bash
 python Game.py
 ```
 
